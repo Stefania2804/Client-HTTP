@@ -1,5 +1,4 @@
 Salomia Maria Stefania 321CD
-# Client HTTP pentru Management Biblioteca de Filme
 
 # Client HTTP pentru Management Biblioteca de Filme
 
